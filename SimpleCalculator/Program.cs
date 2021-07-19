@@ -26,6 +26,7 @@ namespace SimpleCalculator
             }
         }
         //comment one
+        //comment two
 
         static public bool IsNumeric(string input, out double number)
         {
