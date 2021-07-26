@@ -1,0 +1,10 @@
+﻿My initial thoughts on the SimpleCalculator app were not good to begin with because there were no 
+comments in the application. Also, the Main method was at the bottom of the file, which made the code
+harder to read. When I modified the application, I noticed there was no error checking. Which assumes 
+that the user will never make a mistake, which is not good. As a developer we must handle all use cases, 
+we should assume a user has no experience using a computer. The goal is to make the program as user 
+friendly as possible all while being functional to. 
+
+Overall, the app was easy to use for me and easy to read after the main method was move to the top. 
+The application was simple to begin with. Begin only able to handle an arithmetic operation for only two 
+numbers. 
